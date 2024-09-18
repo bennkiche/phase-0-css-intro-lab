@@ -1,0 +1,60 @@
+ body {
+    background-color: #00b3e6; 
+}
+div {
+    width: 700px; 
+    margin: auto; 
+    font-family: "Helvetica Neue"; 
+    background-color: white; 
+    padding: 30px; 
+}
+#main-header {
+    font-size: 22px; 
+}
+.perspective-questions {
+    font-style: italic;
+}
+/* <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Styled Page</title>
+    <style>
+        /* Optional: You can include basic styles here */
+        /* body {
+            margin: 0;
+        }
+    </style>
+</head>
+<body>
+    <div id="main-header">Main Header</div>
+    <div class="perspective-questions">Question 1</div>
+    <div>Another Div</div>
+
+    <script>
+        // Set body background color
+        document.body.style.backgroundColor = '#00b3e6';
+
+        // Style div elements
+        const divs = document.querySelectorAll('div');
+        divs.forEach(div => {
+            div.style.width = '700px';
+            div.style.margin = 'auto';
+            div.style.fontFamily = '"Helvetica Neue", sans-serif';
+            div.style.backgroundColor = 'white';
+            div.style.padding = '30px';
+        });
+
+        // Style the main header
+        const mainHeader = document.getElementById('main-header');
+        mainHeader.style.fontSize = '22px';
+
+        // Style elements with class perspective-questions
+        const perspectiveQuestions = document.querySelectorAll('.perspective-questions');
+        perspectiveQuestions.forEach(question => {
+            question.style.fontStyle = 'italic';
+        });
+    </script>
+</body>
+</html> */ 
